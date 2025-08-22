@@ -1,0 +1,10 @@
+echo "__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
+*.pkl
+*.csv
+*.log
+*.DS_Store
+" > .gitignore
