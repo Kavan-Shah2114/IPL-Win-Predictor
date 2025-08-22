@@ -1,4 +1,4 @@
-echo "# IPL Win Prediction
+echo " # IPL Win Prediction
 
 This project predicts the win probability of IPL teams using machine learning.  
 It uses historical IPL match data (`matches.csv` and `deliveries.csv`) to engineer features like runs left, balls left, wickets, current run rate, and required run rate.  
